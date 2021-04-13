@@ -1,0 +1,33 @@
+﻿@inherits LayoutComponentBase
+@using BlazeCommerce.UI;
+@inject IJSRuntime JS; 
+
+
+<Sidebar @ref="sidebar"/>
+<Header/>
+<div class="row p-2 bg-theme-secondary">
+    <div class="col-2">
+        <button class="btn btn-outline-primary text-light" @onclick="OpenSidebar">
+            <span class="oi oi-menu"></span> &nbsp; All
+        </button>
+    </div>
+    <div class="col-2"><label class="text-light">Mobiles</label></div>
+    <div class="col-2"><label class="text-light">Fashion</label></div>
+    <div class="col-2"><label class="text-light">Electronics</label></div>
+    <div class="col-2"><label class="text-light">Home & Kitchen</label></div>
+    <div class="col-2"><label class="text-light">Computers</label></div>
+</div>
+<div class="bg-black">
+    @Body
+</div>
+
+@code{
+
+    private Sidebar sidebar { get; set; }
+
+    private void OpenSidebar()
+    {
+        sidebar.Open();
+    }
+}
+

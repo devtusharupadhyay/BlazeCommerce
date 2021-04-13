@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazeCommerce", "BlazeCommerce\BlazeCommerce.csproj", "{1DFBEB96-82A0-4C13-99C8-43C04858887E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DFBEB96-82A0-4C13-99C8-43C04858887E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DFBEB96-82A0-4C13-99C8-43C04858887E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DFBEB96-82A0-4C13-99C8-43C04858887E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DFBEB96-82A0-4C13-99C8-43C04858887E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E45E44E-5CC0-4A70-BB0B-63F201BF91FC}
+	EndGlobalSection
+EndGlobal
