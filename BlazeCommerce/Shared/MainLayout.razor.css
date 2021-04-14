@@ -68,3 +68,9 @@
         padding-right: 1.5rem !important;
     }
 }
+
+
+.row {
+    margin-left: 0px;
+    margin-right: 0px;
+}
