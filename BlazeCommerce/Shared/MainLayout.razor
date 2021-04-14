@@ -1,21 +1,41 @@
 ﻿@inherits LayoutComponentBase
 @using BlazeCommerce.UI;
-@inject IJSRuntime JS; 
+@inject IJSRuntime JS;
 
 
-<Sidebar @ref="sidebar"/>
+<Sidebar @ref="sidebar" />
 <Header/>
 <div class="row p-2 bg-theme-secondary">
-    <div class="col-2">
-        <button class="btn btn-outline-primary text-light" @onclick="OpenSidebar">
-            <span class="oi oi-menu"></span> &nbsp; All
+    <div class="col-lg-2 col-md-4 col-sm-4 col-6 mb-1">
+        <button class="btn btn-outline-primary btn-block text-light text-left text-truncate" @onclick="OpenSidebar">
+            <span class="oi oi-menu"></span>&nbsp; All
         </button>
     </div>
-    <div class="col-2"><label class="text-light">Mobiles</label></div>
-    <div class="col-2"><label class="text-light">Fashion</label></div>
-    <div class="col-2"><label class="text-light">Electronics</label></div>
-    <div class="col-2"><label class="text-light">Home & Kitchen</label></div>
-    <div class="col-2"><label class="text-light">Computers</label></div>
+    <div class="col-lg-2 col-md-4 col-sm-4 col-6 mb-1">
+        <NavLink href="Mobiles" class="btn btn-outline-primary btn-block text-light text-truncate">
+            <span class="oi oi-phone"></span>&nbsp; Mobiles
+        </NavLink>
+    </div>
+    <div class="col-lg-2 col-md-4 col-sm-4 col-6 mb-1">
+        <NavLink href="Fashion" class="btn btn-outline-primary btn-block text-light text-truncate">
+            <span class=""></span>&nbsp; Fashion
+        </NavLink>
+    </div>
+    <div class="col-lg-2 col-md-4 col-sm-4 col-6 mb-1">
+        <NavLink href="Electronics" class="btn btn-outline-primary btn-block text-light text-truncate">
+            <span class="oi oi-lightbulb"></span>&nbsp; Electronics
+        </NavLink>
+    </div>
+    <div class="col-lg-2 col-md-4 col-sm-4 col-6 mb-1">
+        <NavLink href="HomeAndKitchen" class="btn btn-outline-primary btn-block text-light text-truncate">
+            <span class="oi oi-home"></span>&nbsp; Home & Kitchen
+        </NavLink>
+    </div>
+    <div class="col-lg-2 col-md-4 col-sm-4 col-6 mb-1">
+        <NavLink href="Computers" class="btn btn-outline-primary btn-block text-light text-truncate">
+            <span class="oi oi-monitor"></span>&nbsp; Computers
+        </NavLink>
+    </div>
 </div>
 <div class="bg-black">
     @Body
