@@ -97,7 +97,7 @@ using BlazeCommerce.UI;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 24 "D:\Code\Blazor\BlazeCommerce\BlazeCommerce\Shared\MainLayout.razor"
+#line 44 "D:\Code\Blazor\BlazeCommerce\BlazeCommerce\Shared\MainLayout.razor"
       
 
     private Sidebar sidebar { get; set; }

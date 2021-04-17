@@ -1,5 +1,10 @@
 @import '';
 
+/* _content/BlazeCommerce/Shared/Header.razor.rz.scp.css */
+.row[b-fyo3qvvwl4] {
+    margin-left: 0px;
+    margin-right: 0px;
+}
 /* _content/BlazeCommerce/Shared/MainLayout.razor.rz.scp.css */
 .page[b-suru86w3xg] {
     position: relative;
@@ -70,6 +75,12 @@
         padding-left: 2rem !important;
         padding-right: 1.5rem !important;
     }
+}
+
+
+.row[b-suru86w3xg] {
+    margin-left: 0px;
+    margin-right: 0px;
 }
 /* _content/BlazeCommerce/Shared/Sidebar.razor.rz.scp.css */
 

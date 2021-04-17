@@ -5,9 +5,6 @@ D:\Code\Blazor\BlazeCommerce\BlazeCommerce\obj\Debug\net5.0\BlazeCommerce.csproj
 D:\Code\Blazor\BlazeCommerce\BlazeCommerce\obj\Debug\net5.0\BlazeCommerce.MvcApplicationPartsAssemblyInfo.cache
 D:\Code\Blazor\BlazeCommerce\BlazeCommerce\obj\Debug\net5.0\BlazeCommerce.RazorComponent.input.cache
 D:\Code\Blazor\BlazeCommerce\BlazeCommerce\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
-D:\Code\Blazor\BlazeCommerce\BlazeCommerce\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
-D:\Code\Blazor\BlazeCommerce\BlazeCommerce\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
-D:\Code\Blazor\BlazeCommerce\BlazeCommerce\obj\Debug\net5.0\RazorDeclaration\Pages\Home\Home.razor.g.cs
 D:\Code\Blazor\BlazeCommerce\BlazeCommerce\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
 D:\Code\Blazor\BlazeCommerce\BlazeCommerce\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
 D:\Code\Blazor\BlazeCommerce\BlazeCommerce\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
@@ -29,9 +26,6 @@ D:\Code\Blazor\BlazeCommerce\BlazeCommerce\obj\Debug\net5.0\BlazeCommerce.TagHel
 D:\Code\Blazor\BlazeCommerce\BlazeCommerce\obj\Debug\net5.0\BlazeCommerce.TagHelpers.output.cache
 D:\Code\Blazor\BlazeCommerce\BlazeCommerce\obj\Debug\net5.0\BlazeCommerce.RazorCoreGenerate.cache
 D:\Code\Blazor\BlazeCommerce\BlazeCommerce\obj\Debug\net5.0\Razor\App.razor.g.cs
-D:\Code\Blazor\BlazeCommerce\BlazeCommerce\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
-D:\Code\Blazor\BlazeCommerce\BlazeCommerce\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
-D:\Code\Blazor\BlazeCommerce\BlazeCommerce\obj\Debug\net5.0\Razor\Pages\Home\Home.razor.g.cs
 D:\Code\Blazor\BlazeCommerce\BlazeCommerce\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
 D:\Code\Blazor\BlazeCommerce\BlazeCommerce\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
 D:\Code\Blazor\BlazeCommerce\BlazeCommerce\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
@@ -52,9 +46,14 @@ D:\Code\Blazor\BlazeCommerce\BlazeCommerce\obj\Debug\net5.0\ref\BlazeCommerce.dl
 D:\Code\Blazor\BlazeCommerce\BlazeCommerce\obj\Debug\net5.0\BlazeCommerce.pdb
 D:\Code\Blazor\BlazeCommerce\BlazeCommerce\obj\Debug\net5.0\BlazeCommerce.genruntimeconfig.cache
 D:\Code\Blazor\BlazeCommerce\BlazeCommerce\obj\Debug\net5.0\BlazeCommerce.csproj.CopyComplete
-D:\Code\Blazor\BlazeCommerce\BlazeCommerce\obj\Debug\net5.0\BlazeCommerce.csprojAssemblyReference.cache
 D:\Code\Blazor\BlazeCommerce\BlazeCommerce\obj\Debug\net5.0\RazorDeclaration\Shared\Header.razor.g.cs
 D:\Code\Blazor\BlazeCommerce\BlazeCommerce\obj\Debug\net5.0\RazorDeclaration\Shared\Sidebar.razor.g.cs
 D:\Code\Blazor\BlazeCommerce\BlazeCommerce\obj\Debug\net5.0\Razor\Shared\Header.razor.g.cs
 D:\Code\Blazor\BlazeCommerce\BlazeCommerce\obj\Debug\net5.0\Razor\Shared\Sidebar.razor.g.cs
 D:\Code\Blazor\BlazeCommerce\BlazeCommerce\obj\Debug\net5.0\scopedcss\Shared\Sidebar.razor.rz.scp.css
+D:\Code\Blazor\BlazeCommerce\BlazeCommerce\obj\Debug\net5.0\RazorDeclaration\Pages\Home.razor.g.cs
+D:\Code\Blazor\BlazeCommerce\BlazeCommerce\obj\Debug\net5.0\Razor\Pages\Home.razor.g.cs
+D:\Code\Blazor\BlazeCommerce\BlazeCommerce\obj\Debug\net5.0\RazorDeclaration\Pages\Mobiles.razor.g.cs
+D:\Code\Blazor\BlazeCommerce\BlazeCommerce\obj\Debug\net5.0\Razor\Pages\Mobiles.razor.g.cs
+D:\Code\Blazor\BlazeCommerce\BlazeCommerce\obj\Debug\net5.0\scopedcss\Shared\Header.razor.rz.scp.css
+D:\Code\Blazor\BlazeCommerce\BlazeCommerce\obj\Debug\net5.0\BlazeCommerce.csprojAssemblyReference.cache
